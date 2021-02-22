@@ -1,0 +1,18 @@
+#right-component{
+    margin-top: 70px;
+    
+}
+
+#searchbar{
+    float:left;
+    border-radius: 20px 20px 20px 20px;
+    /* width: 84%; */
+}
+
+#search-button{
+    border-radius: 20px 20px 20px 20px;
+}
+
+#searchresults{
+    margin-top: 10px;
+}

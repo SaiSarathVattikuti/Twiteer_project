@@ -1,0 +1,45 @@
+/* #sidepanel{
+    /* margin-left:5%; }*/
+
+#twitterlogo {
+  height: 50px;
+  width: 50px;
+  float: left;
+}
+
+#stayleft{
+  float: left;
+  left: 0px;
+}
+
+#stayleftall{
+  float: left;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover 
+{
+     color:#5c99fa; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+
+#user-image-profile{
+  float: left;
+  /* width: px; */
+  padding: 0px;
+  margin-left: 0px;
+}
+
+#user-image-profile img{
+width: 30px;
+height: 30px;
+border-radius: 50%;
+float: left;
+}

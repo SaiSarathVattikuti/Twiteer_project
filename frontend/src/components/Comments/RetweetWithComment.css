@@ -1,0 +1,19 @@
+.modal-popup{
+    max-width: 50%;
+    overflow: hidden;
+    height: 80%;
+}
+
+#retweetingTweet{
+    margin-top: 50px;
+    margin-right: 50px;
+}
+
+#commentingTweet{
+    margin-bottom: 50px;
+}
+#tweet-button{
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
