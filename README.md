@@ -1,11 +1,6 @@
 # Twitter Simulation
 
-### Team Members
-> 1. Sai Sandeep Jyothula
-> 2. Naga Abhilash Reddy Julakanti
-> 3. Nidhi Tattur Aravinda Kumar
-> 4. Nithin Gollanapally
-> 5. Rajesh Thummala
+
 
 ### Technology Stack - [MERN]
 MongoDB |
